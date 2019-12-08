@@ -5,9 +5,13 @@ an app that aids learning
 #Team citadeldevelopers
 
 #Team Members
--Ahmad Abdullahi Ahmad ahmadabdullahiahmad@gmail.com
--Yusuf Alhaji Yusuf  yusuf.ayusuf.921@gmail.com
+-Ahmad Abdullahi Ahmad 
+ahmadabdullahiahmad@gmail.com
+-Yusuf Alhaji Yusuf  
+yusuf.ayusuf.921@gmail.com
 -Hussain Aminu Inuwa  
+husseinameeninuwa@gmail.com
+-Muhammad
 
 #Problem
 inadequate tools to aid the blind ones  in learning new things espeacially using android phones and having  no access to internet.
