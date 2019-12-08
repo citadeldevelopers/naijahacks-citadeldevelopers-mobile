@@ -2,7 +2,7 @@
 an app that aids learning
 
 
-#Team citadeldevelopers
+#Team Citadeldevelopers
 
 #Team Members
 -Ahmad Abdullahi Ahmad 
